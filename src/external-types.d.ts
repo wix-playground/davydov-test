@@ -3,4 +3,4 @@ interface Window {
   __BASEURL__: string;
 }
 
-declare module 'yoshi-template-intro';
+declare module '@wix/yoshi-template-intro';
